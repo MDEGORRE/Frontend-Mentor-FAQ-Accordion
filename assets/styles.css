@@ -63,7 +63,7 @@ footer a {
     color: hsl(228, 45%, 44%); 
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
     body {
     padding: 0.7rem;
     background-image: url('images/background-pattern-mobile.svg');
